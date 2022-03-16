@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p align="center"><img src="obc-banner-png.png" alt="hero_banner"/></p>
+<p align="center"><img src="views/obc-banner-png.png" alt="hero_banner"/></p>
 <h1 align="center">Hello, Welcome to SMART-OBC github page</h1>
 <h3 align="center">We are a company that improves business with our global strength, local flexibility and for smart decisions.</h3>
 <br>
